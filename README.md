@@ -135,5 +135,5 @@ MIT License – see [LICENSE](LICENSE) for details.
 
 **Firas Tlili**  
 Machine Learning Engineer | Computer Vision Specialist  
-📧 firas.tlili.ai@gmail.com  
-🌍 [LinkedIn](https://www.linkedin.com/in/firas-tlili)
+📧 firaseltlili@gmail.com  
+🌍 [LinkedIn](https://www.linkedin.com/in/firastlili)
