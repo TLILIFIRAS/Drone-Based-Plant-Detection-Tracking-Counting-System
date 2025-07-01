@@ -63,8 +63,8 @@ project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/plant-counting-drone.git
-cd plant-counting-drone
+git clone https://github.com/TLILIFIRAS/Drone-Based-Plant-Detection-Tracking-Counting-System.git
+cd Drone-Based-Plant-Detection-Tracking-Counting-System
 ```
 
 ### 2. Install Dependencies
