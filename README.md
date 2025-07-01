@@ -8,7 +8,8 @@
 ## 📽️ Demo
 
 ![Demo Screenshot](demo_screenshot.png)  
-*(You can add a GIF or MP4 demo here once available)*
+
+[Watch the demo on YouTube](https://youtu.be/EjUphagm4K8)
 
 ---
 
@@ -108,11 +109,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-| Detection & Tracking | Line Crossing & Count |
-|----------------------|-----------------------|
-| ![Detection](assets/detection.jpg) | ![Count](assets/counting.jpg) |
 
 ---
 
